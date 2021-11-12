@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/cv-art-3.svg" width="800"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Software Development](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
@@ -22,7 +22,7 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
-#### <a name="Learny-bits"></a>Learny-bits :
+#### <a name="APPS"></a>Application Development :
 + Completed Udemy courses on: Docker, DevOps (CI/CD), XPath locators for Selenium, Automation Testing Selenium & Nightwatch, Git Command-Line Mastery, jQuery, and becoming a Certified SolidWorks Associate (CSWA).
 + <a href="https://reactjs.academy/">ReactJS Academy</a> intensive week bootcamp: ReactJS, Redux, TDD, GraphQL, Styled-Components, SSR
 + <a href="https://makers.tech/">Makers Graduate</a>: JS/ES6, Ruby, TDD, Java, Node, ReactJS, and SpringBoot for the last 3 months
