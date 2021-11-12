@@ -2,10 +2,10 @@
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@gmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;London | W1</h4>
 <br><br>
 <p align="center" ><a name="journey"><img src="./images/cv-art-3.svg" width="800"/></a></p>
-<h4 align="center">" I build cool stuff "</h4><br>
 
 [About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
+
 #### <a name="About"></a>About :
 
 Senior full stack GitOps designer/developer, with a background in both software/hardware development, and covering: making, inventing, designing, and prototyping cool stuff you can touch, click, and depend on; using tools like:
