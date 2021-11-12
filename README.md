@@ -1,7 +1,7 @@
 <h1><a name="cv"><img align="left" src="./images/CV-3.svg" height="50"/></a><a href="https://makers.tech/"><img align="right" src="./images/logo-makers.svg" width="50"/></a></h1>
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@gmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;| W1 |</h4>
 <br><br>
-<p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
+<p align="center" ><a name="journey"><img src="./images/cv-art-3.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
 [About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Work-stuff](#Innovations)&nbsp;&nbsp;|&nbsp;&nbsp;[Learny-bits](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
