@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/cv-art-3.svg" width="800"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Work-stuff](#Innovations)&nbsp;&nbsp;|&nbsp;&nbsp;[Learny-bits](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Cloud Systems Architecture](#Innovations)&nbsp;&nbsp;|&nbsp;&nbsp;[Software Development](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
