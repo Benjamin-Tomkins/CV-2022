@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/cv-art-3.svg" width="800"/></a></p>
 <h4 align="center">" I build cool stuff "</h4>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
@@ -33,6 +33,16 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course.
 + Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>.
 + And, am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography).
+
+#### <a name="UI"></a>UX/UI Design :
+
++ `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
++ `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `Integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
++ `Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
++ `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
++ `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="FAQ"></a>FAQ :
 Are you on social media?
