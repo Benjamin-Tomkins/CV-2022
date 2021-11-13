@@ -48,11 +48,11 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="PATENTS"></a>Patents :
-<h5>• <i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf</h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;<i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf</h5>
 
-<h5>• <i>"System and method for behabioural modelling"</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf</h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;<i>"System and method for behabioural modelling"</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf</h5>
 
 #### <a name="FAQ"></a>FAQ :
 Are you on social media?
