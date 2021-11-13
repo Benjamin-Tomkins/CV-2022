@@ -48,18 +48,15 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="PATENTS"></a>Patents :
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;<i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf</h5>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;<i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i></b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf
 
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;<i>"System and method for behabioural modelling"</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf</h5>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;<i>"System and method for behabioural modelling"</i></b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf
 
 #### <a name="FAQ"></a>FAQ :
 Are you on social media?
 > no, it's creepy
-
-What's the deal with the sheep?
-> I grew up around farms and love animals with short legs, e.g: sheep, munchkin cats, shetland ponies, and bernese mountain dogs
 
 #### <a name="Random"></a>Random :
 + Central St Martins thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
