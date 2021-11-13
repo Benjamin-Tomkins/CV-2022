@@ -3,6 +3,9 @@
 <br><br>
 <p align="center" ><a name="journey"><img src="./images/cv-art-6.svg" width="900"/></a></p>
 
+<h4 align="center"><i>--- I build cool stuff ---</i></h4><br>
+
+
 [About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 
