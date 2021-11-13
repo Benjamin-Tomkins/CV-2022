@@ -1,7 +1,7 @@
 <a name="cv"><img align="left" src="./images/CV-3.svg" height="50"/></a>
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@gmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;London | W1</h4>
 <br><br>
-<p align="center" ><a name="journey"><img src="./images/cv-art4.svg" width="900"/></a></p>
+<p align="center" ><a name="journey"><img src="./images/cv-art-5.svg" width="900"/></a></p>
 
 [About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
