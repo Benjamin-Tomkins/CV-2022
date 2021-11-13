@@ -3,7 +3,7 @@
 <br><br>
 <p align="center" ><a name="journey"><img src="./images/cv-art-6.svg" width="900"/></a></p>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 
 #### <a name="About"></a>About :
@@ -43,6 +43,10 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + `Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
+
+#### <a name="PATENTS"></a>Patents :
+Are you on social media?
+> no, it's creepy
 
 #### <a name="FAQ"></a>FAQ :
 Are you on social media?
