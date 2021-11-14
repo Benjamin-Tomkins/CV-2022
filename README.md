@@ -16,13 +16,13 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `mulesoft certified integration architect` __ design, implementation, technical quality, and governance of organisational microservices.
-+ `porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
++ `MuleSoft certified integration architect` __ design, implementation, technical quality, and governance of organisational microservices.
++ `Porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
 + `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
 + `API modelling` __ .
 + `delineating application components` __ using UML to .
-+ `designing infrastructure layers and service mesh` __ .
-+ `composing build and deploy GitOps automation systems` __ .
++ `designing infrastructure layers and service mesh` __ Kong, NGINX.
++ `composing build and deploy GitOps automation systems` __ GitHub, GitHub Apps, DangerJS, JenkinsX, Nexus, Kubernetes.
 
 #### <a name="APPS"></a>Application Development :
 + `mulesoft certified developer` __ build, test, and debug integrations and API implementations.
