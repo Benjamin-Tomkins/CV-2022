@@ -16,29 +16,29 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `mulesoft certified integration architect` __ responsible for the implementation, technical quality, and governance of an organisation's microservices.
-+ `porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `designing component-based software` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `API modelling` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `delineating application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `composing build and deploy GitOps automation systems` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `mulesoft certified integration architect` __ implementation, technical quality, and governance of organisational microservices.
++ `porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
++ `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
++ `API modelling` __ .
++ `delineating application components` __ using UML to .
++ `designing infrastructure layers and service mesh` __ .
++ `composing build and deploy GitOps automation systems` __ .
 
 #### <a name="APPS"></a>Application Development :
-+ `mulesoft certified developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `developing single-page or mobile applications` __ 
-+ `coding containerised microservices and server-side application components` __ 
-+ `developing single-page or mobile applications` __ 
-+ `implementation solutions for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
-+ `safeguarding code with test frameworks` __ 
++ `mulesoft certified developer` __ .
++ `polyglot developer` __ .
++ `developing single-page or mobile applications` __ .
++ `coding containerised microservices and server-side application components` __ .
++ `developing single-page or mobile applications` __ .
++ `implementation solutions for multiple architectural constraints` __ gRPC, GraphQL, REST .
++ `safeguarding code with test frameworks` __ .
 
 
 #### <a name="UI"></a>UX/UI Design :
 
-+ `developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
-+ `creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `developing application concepts` __ .
++ `creating vision documents` __ .
++ `illustrating and branding software` __ .
 + `rapid prototyping with interactive wireframing` __ .
 
 
