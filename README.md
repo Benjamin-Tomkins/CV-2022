@@ -16,7 +16,7 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `mulesoft certified integration architect` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
++ `mulesoft certified integration architect` __ responsible for the implementation, technical quality, and governance of an organisation's microservices.
 + `porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
 + `designing component-based software` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `API modelling` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
