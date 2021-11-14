@@ -5,7 +5,7 @@
 
 <h4 align="center"><i>—— I build cool stuff ——</i></h4><br>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 
 
@@ -14,26 +14,24 @@
 `Senior full stack GitOps designer/developer` and `certified Integration Architect` — with a background in both software/hardware development, covering: making, inventing, designing, patenting, and prototyping things you can touch, click, and depend on; using tools like `Visual Studio Code`, `Git`, `Postman`, `Docker`, `Matlab`, `Simulink`. and `TensorFlow`.
 
 
-#### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
-
-+ `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `Integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
-+ `Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
-+ `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
-
-#### <a name="APPS"></a>Application Development :
-+ `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-
-
 #### <a name="UI"></a>UX/UI Design :
 
 + `Developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
 + `Creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
 + `Illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 + `Rapid prototyping with interactive wireframing` __ .
+
+
+#### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
+
++ `Porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
++ `Component-based software engineering` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
++ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
++ `Delineation of application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `Designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
+
+#### <a name="APPS"></a>Application Development :
++ `Polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 
 
 #### <a name="PATENTS"></a>Patents :
