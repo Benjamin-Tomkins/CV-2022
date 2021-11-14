@@ -16,6 +16,7 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
++ `mulesoft certified integration architect` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
 + `porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
 + `designing component-based software` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `API modelling` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
@@ -24,6 +25,7 @@
 + `composing build and deploy GitOps automation systems` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
 #### <a name="APPS"></a>Application Development :
++ `mulesoft certified developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `developing single-page or mobile applications` __ 
 + `coding containerised microservices and server-side application components` __ 
