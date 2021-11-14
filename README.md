@@ -20,10 +20,13 @@
 + `component-based software engineering` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `delineating application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.+ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
 + `designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `composing build and deploy GitOps automation systems` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
 #### <a name="APPS"></a>Application Development :
 + `polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `development of single-page or mobile applications` __ 
++ `developing single-page or mobile applications` __ 
++ `coding containerised microservices and server-side application components` __ 
++ `developing single-page or mobile applications` __ 
 
 
 #### <a name="UI"></a>UX/UI Design :
