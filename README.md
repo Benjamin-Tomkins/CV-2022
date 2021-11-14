@@ -16,7 +16,7 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `MuleSoft certified integration architect` __ designing, implementing, assuring technical quality, and governance of organisational microservices.
++ `MuleSoft certified integration architect` __ designing, implementing, assuring technical quality and governance — of organisational microservices.
 + `Porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
 + `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
 + `API modelling` __ using RAML, OAS3 to define API specifications and documentation.
