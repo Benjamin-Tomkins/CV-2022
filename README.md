@@ -11,7 +11,7 @@
 
 #### <a name="About"></a>About :
 
-Senior full stack GitOps designer/developer, with a background in both software/hardware development, covering: making, inventing, designing, patenting, and prototyping cool stuff you can touch, click, and depend on; using tools like `Visual Studio Code`, `Git`, `Postman`, `Docker`, `Matlab`, and `Simulink`.
+Senior full stack GitOps designer/developer and certified Integration Architect — with a background in both software/hardware development, covering: making, inventing, designing, patenting, and prototyping cool stuff you can touch, click, and depend on; using tools like `Visual Studio Code`, `Git`, `Postman`, `Docker`, `Matlab`, and `Simulink`.
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
