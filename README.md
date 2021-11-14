@@ -1,5 +1,5 @@
 <a name="cv"><img align="left" src="./images/CV-3.svg" height="50"/></a>
-<h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@gmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;London | W1</h4>
+<h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@hotmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;London | W1</h4>
 <br><br>
 <p align="center" ><a name="journey"><img src="./images/cv-art-8.svg" width="900"/></a></p>
 
