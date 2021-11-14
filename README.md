@@ -16,7 +16,7 @@
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `mulesoft certified integration architect` __ implementation, technical quality, and governance of organisational microservices.
++ `mulesoft certified integration architect` __ design, implementation, technical quality, and governance of organisational microservices.
 + `porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
 + `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
 + `API modelling` __ .
@@ -25,21 +25,20 @@
 + `composing build and deploy GitOps automation systems` __ .
 
 #### <a name="APPS"></a>Application Development :
-+ `mulesoft certified developer` __ .
-+ `polyglot developer` __ .
-+ `developing single-page or mobile applications` __ .
-+ `coding containerised microservices and server-side application components` __ .
-+ `developing single-page or mobile applications` __ .
++ `mulesoft certified developer` __ build, test, and debug integrations and API implementations.
++ `polyglot developer` __ TypeScript, JavaScript/Node, Python, Java(Rusty), Ruby, DataWeave, UML.
++ `developing single-page or mobile applications` __ in Angular and React.
++ `coding containerised microservices and server-side application components` __ NestJS, Kubernetes.
 + `implementation solutions for multiple architectural constraints` __ gRPC, GraphQL, REST .
-+ `safeguarding code with test frameworks` __ .
++ `safeguarding code with test frameworks` __ Cypress, Nightwatch.
 
 
 #### <a name="UI"></a>UX/UI Design :
 
 + `developing application concepts` __ .
 + `creating vision documents` __ .
-+ `illustrating and branding software` __ .
-+ `rapid prototyping with interactive wireframing` __ .
++ `illustrating and branding software` __ Photoshop, Illustrator.
++ `rapid prototyping with interactive wireframing` __ AdobeXD.
 
 
 #### <a name="PATENTS"></a>Machine Learning patents :
