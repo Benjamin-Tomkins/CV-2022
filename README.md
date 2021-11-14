@@ -16,28 +16,29 @@
 
 #### <a name="UI"></a>UX/UI Design :
 
-+ `Developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
-+ `Creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `Illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `Rapid prototyping with interactive wireframing` __ .
++ `developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
++ `creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `rapid prototyping with interactive wireframing` __ .
 
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
-+ `Porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `Component-based software engineering` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `Delineation of application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.+ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
-+ `Designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
++ `component-based software engineering` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
++ `delineating application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.+ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
++ `designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
 #### <a name="APPS"></a>Application Development :
-+ `Polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
++ `polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
++ `development of single-page or mobile applications` __ 
 
 
 #### <a name="PATENTS"></a>Patents :
-&nbsp;&nbsp;&nbsp;&nbsp;1_&nbsp;&nbsp;<b><i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i></b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;1_&nbsp;&nbsp;<b><i>"system and method of using genetic programming and neural network technologies to enhance spectral data"</i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf
 
-&nbsp;&nbsp;&nbsp;&nbsp;2_&nbsp;&nbsp;<b><i>"System and method for behabioural modelling"</i></b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;2_&nbsp;&nbsp;<b><i>"system and method for behabioural modelling"</i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf
 
 
