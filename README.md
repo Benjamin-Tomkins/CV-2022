@@ -28,7 +28,7 @@
 + `developing single-page or mobile applications` __ 
 + `coding containerised microservices and server-side application components` __ 
 + `developing single-page or mobile applications` __ 
-+ `implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
++ `implementation solutions for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
 
 
 #### <a name="UI"></a>UX/UI Design :
