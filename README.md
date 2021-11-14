@@ -5,13 +5,14 @@
 
 <h4 align="center"><i>—— I build cool stuff ——</i></h4><br>
 
-
 [About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
+
 
 #### <a name="About"></a>About :
 
 `Senior full stack GitOps designer/developer` and `certified Integration Architect` — with a background in both software/hardware development, covering: making, inventing, designing, patenting, and prototyping things you can touch, click, and depend on; using tools like `Visual Studio Code`, `Git`, `Postman`, `Docker`, `Matlab`, `Simulink`. and `TensorFlow`.
+
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
 
@@ -28,13 +29,12 @@
 
 
 #### <a name="UI"></a>UX/UI Design :
-+ `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
-+ `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `Integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
-+ `Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
-+ `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
+
++ `Developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
++ `Creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `Illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `Rapid prototyping with interactive wireframing` __ .
+
 
 #### <a name="PATENTS"></a>Patents :
 &nbsp;&nbsp;&nbsp;&nbsp;1_&nbsp;&nbsp;<b><i>"System and method of using genetic programming and neural network technologies to enhance spectral data"</i></b><br>
@@ -43,9 +43,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;2_&nbsp;&nbsp;<b><i>"System and method for behabioural modelling"</i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf
 
+
 #### <a name="FAQ"></a>FAQ :
 Are you on social media?
 > no, it's creepy
+
 
 #### <a name="Random"></a>Random :
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
@@ -56,4 +58,3 @@ Are you on social media?
 + Enjoy representing numbers in cool new ways (buy me a drink and I'll draw you a picture).
 + Have worked on cool plant/aeroponics stuff (buy me a drink and I'll still not tell you #NDA).
 + And I can make women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷‍♀️.
-
