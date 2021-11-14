@@ -57,8 +57,10 @@ Are you on social media?
 > no, it's creepy
 
 #### <a name="Random"></a>Random :
-+ Central St Martins thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
-+ Something called <a href="https://www.google.co.uk/search?q=rammed+earth+wall&source=lnms&tbm=isch&sa=X&ved=0ahUKEwifp7CPmt3cAhWpBcAKHQr8DlYQ_AUICigB&biw=1280&bih=703">Rammed Earth Structures</a> (its a thing).
-+ Making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a>
-+ Ice skating, but not done it in a while.
-+ You know, drawing and stuff.
++ Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
++ Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
++ Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a> course __ taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
++ Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course.
++ Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>.
++ And I can make women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a>
+
