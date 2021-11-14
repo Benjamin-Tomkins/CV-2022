@@ -26,8 +26,7 @@
 
 + `Porting monolyths to microservices` __ software design -- efficiently reducing caesarean section scars without surgery **[in-dev]
 + `Component-based software engineering` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
-+ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
-+ `Delineation of application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `Delineation of application components` __ using UML to ....  analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.+ `Implementation for multiple architectural constraints` __ gRPC, GraphQL, REST .. enabling computation on medical data without violating patient confidentiality.
 + `Designing infrastructure layers and service mesh` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
 #### <a name="APPS"></a>Application Development :
