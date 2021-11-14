@@ -5,21 +5,13 @@
 
 <h4 align="center"><i>—— I build cool stuff ——</i></h4><br>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Service-Oriented Architecture](#SOA)&nbsp;&nbsp;|&nbsp;&nbsp;[Application Development](#APPS)&nbsp;&nbsp;|&nbsp;&nbsp;[UX/UI Design](#UI)&nbsp;&nbsp;|&nbsp;&nbsp;[Patents](#PATENTS)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 
 
 #### <a name="About"></a>About :
 
 `Senior full stack GitOps designer/developer` and `certified Integration Architect` — with a background in both software/hardware development, covering: making, inventing, designing, patenting, and prototyping things you can touch, click, and depend on; using tools like `Visual Studio Code`, `Git`, `Postman`, `Docker`, `Matlab`, `Simulink`. and `TensorFlow`.
-
-
-#### <a name="UI"></a>UX/UI Design :
-
-+ `developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
-+ `creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `rapid prototyping with interactive wireframing` __ .
 
 
 #### <a name="SOA"></a>Service-Oriented Architecture ( design / prototyping ) :
@@ -32,6 +24,14 @@
 #### <a name="APPS"></a>Application Development :
 + `polyglot developer` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `development of single-page or mobile applications` __ 
+
+
+#### <a name="UI"></a>UX/UI Design :
+
++ `developing application concepts` __ enabling computation on medical data without violating patient confidentiality.
++ `creating vision documents` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `illustrating and branding software` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `rapid prototyping with interactive wireframing` __ .
 
 
 #### <a name="PATENTS"></a>Patents :
