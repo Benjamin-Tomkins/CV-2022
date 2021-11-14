@@ -24,19 +24,10 @@
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="APPS"></a>Application Development :
-+ Completed Udemy courses on: Docker, DevOps (CI/CD), XPath locators for Selenium, Automation Testing Selenium & Nightwatch, Git Command-Line Mastery, jQuery, and becoming a Certified SolidWorks Associate (CSWA).
-+ <a href="https://reactjs.academy/">ReactJS Academy</a> intensive week bootcamp: ReactJS, Redux, TDD, GraphQL, Styled-Components, SSR
-+ <a href="https://makers.tech/">Makers Graduate</a>: JS/ES6, Ruby, TDD, Java, Node, ReactJS, and SpringBoot for the last 3 months
-+ Done some Matlab, Python (sooo rusty), Adobe products, Visual Paradigm, all things JetBrains, Solidworks, MapleSoft (google it), and the usual bits.
-+ Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
-+ Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
-+ Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a> course __ taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
-+ Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course.
-+ Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>.
-+ And, am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography).
++ `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
+
 
 #### <a name="UI"></a>UX/UI Design :
-
 + `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 + `Integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
@@ -59,8 +50,10 @@ Are you on social media?
 #### <a name="Random"></a>Random :
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
 + Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
-+ Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a> course __ taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
++ Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a> course (taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>).
 + Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course.
 + Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>.
-+ And I can make women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷‍♀️
++ Enjoy representing numbers in cool new ways (buy me a drink and I'll draw you a picture).
++ Have worked on cool plant/aeroponics stuff (buy me a drink and I'll still not tell you #NDA).
++ And I can make women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷‍♀️.
 
