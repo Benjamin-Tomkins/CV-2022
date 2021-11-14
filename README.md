@@ -19,25 +19,25 @@
 + `MuleSoft certified integration architect` __ design, implementation, technical quality, and governance of organisational microservices.
 + `Porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
 + `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
-+ `API modelling` __ .
-+ `delineating application components` __ using UML to .
-+ `designing infrastructure layers and service mesh` __ Kong, NGINX.
-+ `composing build and deploy GitOps automation systems` __ GitHub, GitHub Apps, DangerJS, JenkinsX, Nexus, Kubernetes.
++ `API modelling` __ using RAML, OAS3 to define API specifications and documentation.
++ `Delineating application components` __ with Unified Modeling Language (UML) to visualize a systems design.
++ `Designing infrastructure layers and service mesh` __ with either Kong, or NGINX.
++ `Composing build and deploy GitOps automation systems` __ using GitHub, GitHub Apps, DangerJS validation, JenkinsX, Nexus, and Kubernetes.
 
 #### <a name="APPS"></a>Application Development :
-+ `mulesoft certified developer` __ build, test, and debug integrations and API implementations.
-+ `polyglot developer` __ TypeScript, JavaScript/Node, Python, Java(Rusty), Ruby, DataWeave, UML.
-+ `developing single-page or mobile applications` __ in Angular and React.
-+ `coding containerised microservices and server-side application components` __ NestJS, Kubernetes.
-+ `implementation solutions for multiple architectural constraints` __ gRPC, GraphQL, REST .
-+ `safeguarding code with test frameworks` __ Cypress, Nightwatch.
++ `MuleSoft certified developer` __ able to build, test, and debug integrations and API implementations.
++ `Polyglot developer` __ in any of the following languages: TypeScript, JavaScript/Node, Python, Java(Rusty), Ruby, DataWeave, UML.
++ `Developing single-page or mobile web applications` __ in Angular or React (graduate of the ReactJS Academy).
++ `Coding containerised microservices and server-side application components` __ with NestJS and Kubernetes.
++ `Implementating solutions for multiple architectural constraints` __ using gRPC, GraphQL, and REST.
++ `Safeguarding code with test frameworks` __ with Cypress, and Nightwatch.
 
 
 #### <a name="UI"></a>UX/UI Design :
 
-+ `developing application concepts` __ .
-+ `illustrating and branding software` __ Photoshop, Illustrator.
-+ `rapid prototyping with interactive wireframing` __ AdobeXD.
++ `Developing application concepts` __ crafting elevator pitches and visuals to help scope and explain a concept.
++ `Illustrating and branding software` __ with Photoshop and Illustrator.
++ `Rapid prototyping with interactive wireframing` __ using AdobeXD.
 
 
 #### <a name="PATENTS"></a>Machine Learning patents :
