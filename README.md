@@ -36,7 +36,6 @@
 #### <a name="UI"></a>UX/UI Design :
 
 + `developing application concepts` __ .
-+ `creating vision documents` __ .
 + `illustrating and branding software` __ Photoshop, Illustrator.
 + `rapid prototyping with interactive wireframing` __ AdobeXD.
 
