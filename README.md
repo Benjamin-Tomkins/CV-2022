@@ -18,7 +18,7 @@
 
 + `MuleSoft certified integration architect` __ designing, implementing, assuring technical quality and governance — of organisational microservices.
 + `Porting monolyths to microservices` __ detangling monolithic systems and migrating them to microservice architectures.
-+ `designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
++ `Designing component-based software` __ defining, implementing and composing loosely coupled independent components into enterpries systems.
 + `API modelling` __ using RAML, OAS3 to define API specifications and documentation.
 + `Delineating application components` __ with Unified Modeling Language (UML) to visualize a systems design.
 + `Designing infrastructure layers and service mesh` __ with either Kong, or NGINX.
